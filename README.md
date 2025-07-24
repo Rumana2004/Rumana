@@ -1,3 +1,21 @@
+# 👋 Hi there, I'm Rumana!
+
+🚀 A passionate **🎓AI/ML undergrad** | **💻 Building scalable full stack products** | **🤖 Turning real-world problems into smart automation**
+
+📩 **Email me at:** rufidarumana3@gmail.com for **Collaboration**, **Projects**, or just to say Hi! 😊
+
+---
+
+- 🔧 **I'm currently working on:** "Hybrid Quantum-Classical Attention enhanced VAE for graph representation learning"
+- 📚 **I'm currently learning:** Advanced Machine Learning, Full-Stack Web Development and Problem-Solving with Data Structures & Algorithms 🚀
+- 🤝 **I'm looking to collaborate on:** "Hybrid Quantum-Classical Attention enhanced VAE for graph representation learning" and NammaCityFix - From Complaints to Completion
+- ❓ **I'm looking for help with:** 
+- 💬 **Ask me about:**  AI/ML concepts, web development with HTML, CSS, JS & frameworks, and my tech journey with team collaboration at IEEE WIE ⚡🤖🌐
+- 📬 **How to reach me:** rufidarumana3@gmail.com
+- 🌸 **Pronouns:** She/Her
+- 🌟 **Fun fact:** Late-night debugging is my version of a plot twist 🌙🐞
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rumana04_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rumana-39a0112a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rufidarumana3@gmail.com) 
