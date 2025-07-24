@@ -27,6 +27,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rumana2004&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rumana2004&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rumana2004&theme=react&no-frame=true&no-bg=true&margin-w=4)
 
