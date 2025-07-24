@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rumana!
 
-🚀 A passionate **🎓AI/ML undergrad** | **💻 Building scalable full stack products** | **🤖 Turning real-world problems into smart automation**
+🚀 A passionate **🎓AI/ML undergrad** | **💻 Building scalable full stack projects** | **🤖 Turning real-world problems into smart automation**
 
 📩 **Email me at:** rufidarumana3@gmail.com for **Collaboration**, **Projects**, or just to say Hi! 😊
 
